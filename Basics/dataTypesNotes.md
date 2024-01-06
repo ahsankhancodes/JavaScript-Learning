@@ -16,7 +16,7 @@ It is an example of number datatype. <br>
 All the numerical values with or without floating point like 20 or 20.0 lies in the number type. All the arithmetic functions applies on this datatype.
 <br>
 
-1. **BigInt** <br>
+2. **BigInt** <br>
 `let BigInt = 1234567890123456789012345n;` <br>
 It is an example of BigInt datatype. This datatype is used for storing very large numbers that can't be stored in Number datatype. It is mostly used in E-commerce and Stocks Marketplace projects development
 <br>
@@ -47,7 +47,7 @@ It is an example of Undefined datatype. <br>
 Undefined simply means what it's name is. It shows that variable is not defined till present moment. 
 <br>
 
-6. ***Object*** <br>
+7. ***Object*** <br>
 Object is also a datatype but we'll discuss lately completely in detail. 
 <br>
 
